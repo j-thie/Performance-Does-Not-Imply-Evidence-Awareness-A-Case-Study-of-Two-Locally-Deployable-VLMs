@@ -1,4 +1,4 @@
-# Safety-Evaluation-of-Vision-Language-Models-on-CheXpert-Analyzing-Performance
+# Performance Does Not Imply Evidence Awareness: <br> A Case Study of Two Locally Deployable <br> Vision-Language Models on CheXpert
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Models](https://img.shields.io/badge/Models-MedGemma%20%7C%20Ministral-green)
 ![Dataset](https://img.shields.io/badge/Dataset-CheXpert-yellow)
